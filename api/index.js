@@ -43,10 +43,10 @@ app.use('/api/post', postRoute);
 app.use('/api/comment', commentRoute);
 app.use('/api/cloudinary', cloudinaryRoute);
 
-app.use(express.static(path.join(__dirname, '/client/dist')));
+app.use(express.static(path.join(__dirname, '/clientBlog/dist')));
 
 app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'client', 'dist', 'index.html'));
+  res.sendFile(path.join(__dirname, 'clientBlog', 'dist', 'index.html'));
 });
 
 
