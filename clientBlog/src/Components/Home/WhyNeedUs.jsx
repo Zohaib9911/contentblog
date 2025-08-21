@@ -11,28 +11,28 @@ export default function WhyNeedUs() {
       text: 'Excessive Workload',
       headLine: 'Juggling Between Academic and Professional Tasks?',
       content: `A lot of students approach us when they're overworked. Some do internships and have homework deadlines that don't line up conveniently enough with the regular workweek or classes - it can be hard! So we offer students super short 3-6 hour emergency requests in order to make sure every paper gets done on time.`,
-      imageUrl: 'https://firebasestorage.googleapis.com/v0/b/academic-b6371.appspot.com/o/Homepage%2Fexcessive-workload.webp?alt=media&token=ec6e5175-d703-45c4-9bfc-0f09b91c99d3',
+      imageUrl: '/public/assets/Insomia.png',
     },
     {
       id: 2,
       text: 'Lack of Skills',
       headLine: 'Not Every One Of Us Can Do Everything Right!',
       content: `When it comes down to schoolwork, many students don't have the skills needed for academic success. This is where our service comes in! We offer highly qualified writers with professional expertise on every topic you can possibly imagine. They can cover up for your failings with their expertise.`,
-      imageUrl: 'https://firebasestorage.googleapis.com/v0/b/academic-b6371.appspot.com/o/Homepage%2Flack-of-skills.webp?alt=media&token=5651c7cf-51d6-43ec-8694-5b9813ba96f0',
+      imageUrl: '/public/assets/Insomia.png',
     },
     {
       id: 3,
       text: 'Deadline Pressure',
       headLine: 'Less Time, More Assignments',
       content: `The life of a college student is not always easy. There are so many things to do and very little time! That's why our writers can help you meet your deadlines no matter how close or far off they might be. When students need help in meeting deadlines, we're here with perfect essays.`,
-      imageUrl: 'https://firebasestorage.googleapis.com/v0/b/academic-b6371.appspot.com/o/Homepage%2Fdeadline-pressure.webp?alt=media&token=6c7f9e31-34f3-44b8-aae2-882800ce0a6d',
+      imageUrl: '/public/assets/Insomia.png',
     },
     {
       id: 4,
       text: 'Want High Grades',
       headLine: 'Straight As, 3+ GPA - Every Student’s Dream',
       content: `You deserve the best and we are here for that. Our writers will help improve your performance so you can earn top grades. We have a strict quality control system that ensures flawless papers with proper formatting and citations. Worrying about GPAs is a thing of the past!`,
-      imageUrl: 'https://firebasestorage.googleapis.com/v0/b/academic-b6371.appspot.com/o/Homepage%2Fwant-high-grades.webp?alt=media&token=02586267-6991-451b-bd96-df57591ccaa5',
+      imageUrl: '/public/assets/Insomia.png',
     },
 
   ];

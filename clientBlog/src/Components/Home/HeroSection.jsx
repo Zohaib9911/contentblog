@@ -35,7 +35,7 @@ export default function HeroSection() {
           <div className=' flex-1 mx-auto'>
           </div>
         </div>
-        <div className="h-full w-full bg-cover bg-center" style={{ backgroundImage: "url('https://firebasestorage.googleapis.com/v0/b/academic-b6371.appspot.com/o/Homepage%2FHero%20Section%20Image.png?alt=media&token=e4b23a83-934d-4995-be59-e5bc9c0991c4')" }}>
+        <div className="h-full w-full bg-cover bg-center" style={{ backgroundImage: "url('/public/assets/Insomia.png')" }}>
         </div>
       </div>
       <ModelSubmit show={showModel} setShowModel={setShowModel} />

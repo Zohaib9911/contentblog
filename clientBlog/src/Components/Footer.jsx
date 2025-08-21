@@ -13,7 +13,7 @@ export default function FooterCom() {
               to='/'
               className=''
             >
-              <img className='w-[130px] h[58px] ' src="https://firebasestorage.googleapis.com/v0/b/academic-b6371.appspot.com/o/Homepage%2FScholor%20Education%20Logo%20.png?alt=media&token=68d304ba-7c44-413c-b03f-8b477dfb23c0" alt="Schelor Education Logo" />
+              <img className='w-[130px] h[58px] ' src="/public/assets/Insomia.png" alt="Schelor Education Logo" />
 
             </Link>
           </div>
